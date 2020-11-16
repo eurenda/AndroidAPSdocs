@@ -27,8 +27,8 @@ What you will need
    Other hardware options are available.
    
    * RileyLink with modified Balun Antenna - Untested
-   * Emalink - Untested
-   * LoopLink - Untested
+   * `Emalink <https://github.com/sks01/EmaLink>`_ - Untested
+   * `LoopLink <https://jameswedding.substack.com/>`_ - Untested
    
 These instructions will assume that you are **starting a new pod session**. If this is not the case, please be patient and attempt to begin this process on your next pod change. 
 
